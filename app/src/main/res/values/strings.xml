@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Erbiltourguide</string>
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_dining">Dining</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_entertainment">Entertainmnet</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_walking">Walking</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_shopping">Shopping</string>
+
+    <string name="category_location">Locations Info</string>
+
+    <string name="dining_desc">The food, presentation and hospitality is sensational, and its service never stops as you are there</string>
+    <string name="shopping_desc"> Best shopping mall in Erbil for atmosphere, choice of activities, range of products, cleanliness and friendliness.</string>
+    <string name="entertainment_desc"> is a great place to visit. Winter of course is a great time to be on the mountain as it snows so one gets a real winter. There is a teleferic take you to the top where some amenities.</string>
+    <string name="walking_desc">The park is a quite big so it is good to spend some time walking with friends or family especially during the evenings as it can be very warm during the day.</string>
+    <string name="entertainment2_desc">is the largest  waterpark in all of Iraq. Located on Massif Salahaddin Road, Aqua Tarin is  providing a comfortable environment for guests and their families.</string>
+
+    <!-- Locations  -->
+    <string name="Family">Family Mall </string>
+    <string name="Sami">Sami Park</string>
+    <string name="Korek">Korek Mountain</string>
+    <string name="Dawa2">Dawa 2 Restaurant</string>
+    <string name="Aqua">Aqua Tarin</string>
+    <string name="Cita">Citadel</string>
+
+
+
+
+    <!-- Locations addresses -->
+    <string name="Family_addr">Address: 100m Street </string>
+    <string name="Sami_addr">Address: 100m Street</string>
+    <string name="Korek_addr">Address: Masif Road</string>
+    <string name="Dawa2_addr">Address: 100m Street</string>
+    <string name="Aqua_addr">Address: Masif Road</string>
+    <string name="Cita_addr">Address: City center</string>
+
+    <!-- Accessibility-only descriptions -->
+    <string name="description_image_1">Image 1</string>
+    <string name="description_image_2">Image 2</string>
+    <string name="description_zoom_touch_close">Expanded image (touch to close)</string>
+
+
+
+</resources>
+
+
